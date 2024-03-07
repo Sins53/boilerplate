@@ -1,0 +1,62 @@
+
+.loader-wheel__spoke:nth-child(1) {
+    rotate: 0deg;
+}
+
+.loader-wheel__spoke:nth-child(2) {
+    animation-delay: 0.05s;
+    rotate: 30deg;
+}
+
+.loader-wheel__spoke:nth-child(3) {
+    animation-delay: 0.1s;
+    rotate: 60deg;
+}
+
+.loader-wheel__spoke:nth-child(4) {
+    animation-delay: 0.15s;
+    rotate: 90deg;
+}
+
+.loader-wheel__spoke:nth-child(5) {
+    animation-delay: 0.2s;
+    rotate: 120deg;
+}
+
+.loader-wheel__spoke:nth-child(6) {
+    animation-delay: 0.25s;
+    rotate: 150deg;
+}
+
+.loader-wheel__spoke:nth-child(7) {
+    animation-delay: 0.3s;
+    rotate: 180deg;
+}
+
+.loader-wheel__spoke:nth-child(8) {
+    animation-delay: 0.35s;
+    rotate: 210deg;
+}
+
+.loader-wheel__spoke:nth-child(9) {
+    animation-delay: 0.4s;
+    rotate: 240deg;
+}
+
+.loader-wheel__spoke:nth-child(10) {
+    animation-delay: 0.45s;
+    rotate: 270deg;
+}
+
+.loader-wheel__spoke:nth-child(11) {
+    animation-delay: 0.5s;
+    rotate: 300deg;
+}
+
+.loader-wheel__spoke:nth-child(12) {
+    animation-delay: 0.55s;
+    rotate: 330deg;
+}
+
+
+
